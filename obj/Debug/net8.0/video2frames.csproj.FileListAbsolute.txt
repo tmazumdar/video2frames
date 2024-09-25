@@ -1,0 +1,14 @@
+/home/tm/code/video2frames/bin/Debug/net8.0/video2frames
+/home/tm/code/video2frames/bin/Debug/net8.0/video2frames.deps.json
+/home/tm/code/video2frames/bin/Debug/net8.0/video2frames.runtimeconfig.json
+/home/tm/code/video2frames/bin/Debug/net8.0/video2frames.dll
+/home/tm/code/video2frames/bin/Debug/net8.0/video2frames.pdb
+/home/tm/code/video2frames/obj/Debug/net8.0/video2frames.GeneratedMSBuildEditorConfig.editorconfig
+/home/tm/code/video2frames/obj/Debug/net8.0/video2frames.AssemblyInfoInputs.cache
+/home/tm/code/video2frames/obj/Debug/net8.0/video2frames.AssemblyInfo.cs
+/home/tm/code/video2frames/obj/Debug/net8.0/video2frames.csproj.CoreCompileInputs.cache
+/home/tm/code/video2frames/obj/Debug/net8.0/video2frames.dll
+/home/tm/code/video2frames/obj/Debug/net8.0/refint/video2frames.dll
+/home/tm/code/video2frames/obj/Debug/net8.0/video2frames.pdb
+/home/tm/code/video2frames/obj/Debug/net8.0/video2frames.genruntimeconfig.cache
+/home/tm/code/video2frames/obj/Debug/net8.0/ref/video2frames.dll
